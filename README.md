@@ -54,11 +54,6 @@ Helps in data-driven hospital decisions
  ┣ 📜 PLP_Hospital.pbix  # Power BI project file
  ┗ 📘 README.md        # Project documentation
 
-🔗 Links
-
-Live Dashboard Demo: (If you upload on Power BI Service / Portfolio link)
-
-LinkedIn Post: (Insert LinkedIn share link)
 
 🤝 Contribution
 
